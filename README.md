@@ -21,4 +21,4 @@
 
 <image src="лого/logo1.jpg" alt="logo2">
 
-> Created with the {educational platform}(https://netology.ru/)
+> Created with the [educational platform](https://netology.ru/)
