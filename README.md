@@ -21,9 +21,4 @@
 
 <image src="лого/logo1.jpg" alt="logo2">
 
-
-3. Название проекта, краткое описание, картинка:
-
-
-<image src="лого/logo1.jpg" alt="logo3">
-
+> Created with the {educational platform}(https://netology.ru/)
